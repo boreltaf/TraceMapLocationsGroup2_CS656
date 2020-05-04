@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TraceMapLocations</string>
+    <string name="title_activity_maps">Map Tracer</string>
+    <string name="activity_movement_tile">Mode</string>
+    <string name="tab_text_1">My Locations</string>
+    <string name="tab_text_2">Travel Mode</string>
+    <string name="route_details">Mode</string>
+    <string name="clear_map">Clear Map</string>
+    <string name="Message_Received">Msg Received</string>
+
+
+    <string name="track">Track Activity</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="bicycle">On a bicycle</string>
+    <string name="foot">On foot</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown_activity">Unknown activity</string>
+    <string name="vehicle">In a vehicle</string>
+    <string name="walking">Walking</string>
+    <string name="activity_unknown" />
+    <string name="activity_in_vehicle" />
+    <string name="activity_on_bicycle" />
+    <string name="activity_on_foot" />
+    <string name="activity_running" />
+    <string name="activity_still" />
+    <string name="activity_tilting" />
+    <string name="activity_walking" />
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="current_activity">Current Mode: </string>
+
+    <string name="mode">Mode</string>
+
+    <string name="trackingstop">Tracking Stopped</string>
+    <string name="trackingstart">Tracking Started</string>
+</resources>
+
